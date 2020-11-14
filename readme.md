@@ -1,3 +1,3 @@
-Nome: Francesca \n
-Cognome: Chong Castellano \n
+Nome: Francesca 
+Cognome: Chong Castellano 
 Matricola: 332197
